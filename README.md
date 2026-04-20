@@ -1,6 +1,6 @@
 ![Usine à Contenu — Plugin Cowork V5](assets/cover.png)
 
-# Usine à Contenu v3.0
+# Usine à Contenu
 
 Plugin Claude Cowork pour produire du contenu multi-format avec modules stratégie et publication intégrés.
 
