@@ -1,0 +1,41 @@
+{
+  "mcpServers": {
+    "google-analytics": {
+      "description": "MCP officiel Google Analytics 4 — analyse du trafic par page, comportement utilisateur, conversions",
+      "required": false,
+      "module": "strategy",
+      "fallback": "Export CSV depuis GA4 : Rapports > sélectionner la période > icône Télécharger"
+    },
+    "google-search-console": {
+      "description": "MCP officiel Google Search Console — requêtes, impressions, positions, taux de clic",
+      "required": false,
+      "module": "strategy",
+      "fallback": "Export CSV depuis Search Console : Performance > Exporter > Télécharger au format CSV"
+    },
+    "wordpress": {
+      "description": "MCP WordPress — création de drafts et publication planifiée sur WordPress",
+      "required": false,
+      "module": "publish",
+      "fallback": "Copier-coller du contenu dans l'éditeur WordPress manuellement"
+    },
+    "typefully": {
+      "description": "MCP Typefully — drafts et scheduling pour X, LinkedIn, Instagram",
+      "required": false,
+      "module": "publish",
+      "fallback": "Copier-coller du contenu dans Typefully manuellement"
+    },
+    "ghost": {
+      "description": "MCP Ghost — publication sur blog Ghost (MCP communautaire open source, non officiel)",
+      "required": false,
+      "module": "publish",
+      "warning": "MCP open source non maintenu par Ghost. Tester avant tout usage en production.",
+      "fallback": "Copier-coller via l'éditeur Ghost Admin ou l'API Ghost Admin"
+    },
+    "google-sheets": {
+      "description": "MCP Google Sheets — export du plan éditorial en tableau interactif",
+      "required": false,
+      "module": "strategy",
+      "fallback": "Export en fichier CSV ou rendu Markdown dans Cowork"
+    }
+  }
+}

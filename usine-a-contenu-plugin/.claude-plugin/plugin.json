@@ -1,0 +1,9 @@
+{
+  "name": "usine-a-contenu",
+  "description": "Production de contenu multi-format avec module stratégie (audit, personas, plan éditorial) et module publication (WordPress, X, LinkedIn, Instagram). Articles, newsletters, posts, tweets, threads, scripts YouTube, métadonnées Ghost.",
+  "version": "3.3.0",
+  "author": {
+    "name": "Stéphane Truphème — Captain Marketing"
+  },
+  "homepage": "https://captainmarketing.io"
+}
