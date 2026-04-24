@@ -25,10 +25,11 @@ MCP utiles : Typefully (X, LinkedIn, Instagram), WordPress, Ghost (communautaire
 
 ## Démarrage
 
-1. Installer dans Cowork > Personnaliser > Plugins
-2. `/usine-a-contenu:begin` — initialise et crée le premier espace
-3. `/usine-a-contenu:new-space` — crée de nouveaux espaces à tout moment
-4. Les skills de production se déclenchent automatiquement selon le contexte
+1.Télécharger le plugin ici : https://github.com/captain-marketing/usine-a-contenu/releases/download/v2.0.0/usine-a-contenu.zip
+2. Installer dans Cowork > Personnaliser > Plugins
+3. `/usine-a-contenu:begin` — initialise et crée le premier espace
+4. `/usine-a-contenu:new-space` — crée de nouveaux espaces à tout moment
+5. Les skills de production se déclenchent automatiquement selon le contexte
 
 ---
 
